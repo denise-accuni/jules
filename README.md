@@ -1,24 +1,35 @@
-Projeto Jules – Roteirização com IA
+# 🎬 Projeto Jules – Roteirização com IA
 
-> Repositório criado para testes e experimentos com o **Jules**, ferramenta de IA do Google Labs voltada à criação de roteiros audiovisuais.
+> Roteiros criativos com Inteligência Artificial, voltados à educação, saúde e comunicação científica.
 
+---
 
+## 📚 Menu de Navegação
 
-Objetivo
+- [🎯 Objetivo](#-objetivo)
+- [🛠️ Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [📁 Estrutura do Projeto](#-estrutura-do-projeto)
+- [🧠 Exemplos de Prompts](#-exemplos-de-prompts)
+- [🚀 Como Usar](#-como-usar)
+- [🤝 Colabore](#-colabore)
+- [📜 Licença](#-licença)
 
-Explorar o uso da Inteligência Artificial na **geração de roteiros educativos e científicos**, especialmente voltados para a área da **saúde**, **inclusão digital** e **comunicação pública**.
+---
 
+## 🎯 Objetivo
 
+Explorar o uso do **Jules**, ferramenta de IA do Google, na geração de roteiros para vídeos educativos. O foco está em temas de saúde pública, humanização do cuidado, educação digital e campanhas sociais.
 
-Tecnologias e Recursos
+---
 
-- **Jules (Google Labs)** – IA para criação de roteiros audiovisuais
-- **Google Veo** – para transformar roteiros em vídeo
-- **GitHub** – organização e versionamento dos roteiros
-- **Markdown (.md)** – documentação dos processos
+## 🛠️ Tecnologias Utilizadas
 
+- [x] **Jules (Google Labs)** – Roteirização com IA
+- [x] **Google Veo** – Criação de vídeos a partir dos roteiros
+- [x] **Markdown** – Documentação dos roteiros
+- [x] **GitHub** – Versionamento e colaboração
 
+---
 
-Estrutura do Repositório
-
+## 📁 Estrutura do Projeto
 
